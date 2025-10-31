@@ -1,0 +1,1 @@
+This repository stores sample data and code related to the research: Peer effects on appropriate antibiotic prescribing within a patient-sharing physician network in China, including codes for disease classifications, network construction, data cleaning, and covariate processing.
